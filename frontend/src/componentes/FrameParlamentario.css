@@ -1,0 +1,26 @@
+.iconos-frame-parlamentario{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+.botones{
+    justify-content: flex-start;
+}
+
+.iconos-frame-parlamentario li{
+    display: flex;
+    justify-content: flex-start;
+    max-width: fit-content;
+}
+.contenedor{
+    font-weight: 500;
+
+}
+ul li span{
+    justify-content: center;
+    color: rgb(37,55,70);
+    
+}
+ul li a{
+    text-decoration: none;
+}

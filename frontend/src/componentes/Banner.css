@@ -1,0 +1,21 @@
+.fondo{
+    background-image:
+    linear-gradient(rgb(145, 182, 199,1), rgba(47, 168, 248, 0.4)), 
+    url('../slider/catamarca_senadadores.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black ;
+    height: fit-content;
+}
+#bot{
+    border-radius: 0%;
+    border: none;
+    background-color: rgb(49, 183, 249);
+}
+#bot:hover{
+    background-color: #fff8;
+    color: black;
+    transition: 300ms;
+    font-weight: bold;
+}

@@ -1,0 +1,38 @@
+.notParl{
+    background-image:
+    linear-gradient(rgb(145, 182, 199,1), rgba(47, 168, 248, 0.4)), 
+    url('../slider/catamarca_senadadores.jpg');
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black ;
+    height: fit-content;
+}
+.cuerpocarta{
+    display: flex;
+    justify-content: space-between !important;
+    font-size: 12px;
+    
+}
+.fechaypais{
+    font-weight: 700;
+}
+
+.titulo{
+    font-size: 15px !important;
+    font-weight: bold;
+}
+
+.desc{
+    text-align: left;
+}
+
+.futer{
+    background-color: rgba(145,182,199,255);
+}
+.botonazo{
+    background-color: rgb(56, 155, 242) !important;
+    color: #fff;
+    font-weight: 500;
+}

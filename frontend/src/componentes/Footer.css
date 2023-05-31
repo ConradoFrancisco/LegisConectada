@@ -1,0 +1,20 @@
+.linksu ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.linksu ul li{
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    align-items: center;
+}
+.linksu{
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+}

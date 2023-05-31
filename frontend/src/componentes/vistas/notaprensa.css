@@ -1,0 +1,21 @@
+.Banner{
+    background-image: url('https://www.legislaturasconectadas.gob.ar/static/web/images/slider/banner_paginas.png');
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.pagina{
+    color: black; 
+    text-decoration: none;
+    font-weight:700;
+}
+
+.pagina:hover{
+    color: rgb(113, 245, 245);
+    text-decoration: underline;
+    transition: 300ms;
+}
+
+hr{
+    margin: 10px;
+}
